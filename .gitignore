@@ -1,0 +1,3 @@
+# Ignore other files rather than settings.json
+elevated-state.json
+state.json
